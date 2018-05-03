@@ -1,0 +1,56 @@
+# Score Tool v0.1
+
+# Pseudocode - Interviewed logic for mechanism for Postal Office scoring procedure
+
+
+# General Information
+
+# Inputs
+
+	# 1. Feature Class with point features corresponding to Postal Offices
+
+	- Attributes:
+		- Score Component Value A
+		- Score Weight A
+		- Score Component Value B
+		- Score Weight B
+		- Score Component Value C
+		- Score Weight C
+		- Score Component Value D
+		- Score Weight D
+
+# Outputs 
+
+	# 1. New Feature Class that is a copy of the input with additional calculated component scores and overall score
+
+	- Attributes:
+		- Score Component A
+		- Score Component B
+		- Score Component C
+		- Score Component D
+		- Overall Score
+
+# Processing Information
+
+	# For each score component...
+
+		# Determine the range of values...
+
+		# Using the range of values: calculate standard deviations (z-score)
+
+		# Store Z-score range into python variable
+
+	# For each record...
+
+		# For each score component...
+
+			# Calculate z-score for value ranges
+
+			# Translate z-score output to 1-9 range # TODO: Evaluate site suitability documentation regarding 1-9 range
+
+			# Calculate output component score for the record
+
+		# Once all score components are calculated, calculate overall score: 
+
+		# (component_val_A * weight_A) + (component_val_B * weight_B) + (component_val_C * weight_C) + (component_val_D * weight_D)
+

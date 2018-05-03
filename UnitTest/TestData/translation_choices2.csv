@@ -1,0 +1,430 @@
+,Choice Label,label::French,Comments,label: Spanish,Spanish Translation
+0,Yes,Oui,,Si,Sí
+1,No,Non,,No,No
+2,,,,,Ninguna
+3,Female,Femelle,Feminin,Femenina,Hembra
+4,Male,Male,Masculin,Masculino,Masculino
+5,Choose Not to Answer,Choisissez de ne pas répondre,,,Elija No responder
+6,,,,,Ninguna
+7,Single,Unique,Célibataire,Soltero(a),Soltero
+8,Married,Marié,Marié(e),Casado(a),Casado
+9,Widowed,Veuf,Veuf (Veuve),Viudo(a),Viudo
+10,Divorced,Divorcé,Divorcé ( e),Divorciado(a),Divorciado
+11,,,,,Ninguna
+12,From Birth,Depuis la naissance,,Desde nacimiento,Desde el nacimiento
+13,From a specific date,À partir d'une date précise,,Desde fecha especifica,A partir de una fecha específica
+14,,,,,Ninguna
+15,Italy,Italie,,Italia,Italia
+16,France,France,,Francia,Francia
+17,Portugal,le Portugal,Portugal,Portugal,Portugal
+18,Turkey,Turquie,,Turquia,Turquía
+19,Croatia,Croatie,,Croacia,Croacia
+20,Germany,Allemagne,,Alemania,Alemania
+21,Austria,L'Autriche,Autriche,Austria,Austria
+22,Spain,Espagne,,España,España
+23,Rep. Yugoslavia,Republique Yougoslave,,Republica Yugoslavia,Rep. Yugoslavia
+24,Serbia,Serbie,,Serbia,Serbia
+25,United Kingdom,Royaume-Uni,,Reino Unido,Reino Unido
+26,Netherlands,Pays-Bas,,Paises Bajos,Países Bajos
+27,Macedonia,Macedoine,,Macedonia,Macedonia
+28,Sri Lanka,Sri Lankac,Sri Lanka,Sri Lanka,Sri Lanka
+29,Kosovo,Kosovo,,Kosovo,Kosovo
+30,Bosnia and Herzegovina,Bosia et Herzegovine,Bosnie Herzegovine,Bosnia y Herzegovina,Bosnia y Herzegovina
+31,Other,Autre,,Otro,Otro
+32,,,,,Ninguna
+33,Permanent Residence Permit (C Permit),Permis de résidence permanente (permis C),,,Permiso de residencia permanente (Permiso C)
+34,Applicant for asylum (N permit),Demandeur d'asile (permis N),,,Solicitante de asilo (permiso N)
+35,Short-stay permit (Lpermit),Permis de court séjour (Lpermit),,,Permiso de estadía corta (Permiso)
+36,Annual residence permit (B permit),Permis de séjour annuel (permis B),,,Permiso anual de residencia (permiso B)
+37,Person in need of protection (S permit),Personne ayant besoin de protection (permis S),,,Persona en necesidad de protección (permiso S)
+38,Swiss Federal Department of Foreign Affairs permit,Autorisation du Département fédéral des affaires étrangères de la Suisse,,,Permiso del Departamento Federal de Asuntos Extranjeros de Suiza
+39,Seasonal permit (A permit),Permis de séjour saisonnier (permis A),,,Permiso estacional (un permiso)
+40,Temporarily admitted foreigner (F permit),Étranger admis temporairement (permis F),,,Admitido temporalmente extranjero (permiso F)
+41,Other Status,Autre statut,,,Otro estado
+42,,,,,Ninguna
+43,At the same address as now (residence A),À la même adresse que maintenant (résidence A),,,En la misma dirección que ahora (residencia A)
+44,In the same commune (as residence A) but at another address,Dans la même commune (comme résidence A) mais à une autre adresse,,,En la misma comuna (como residencia A) pero en otra dirección
+45,In another commune,Dans une autre commune,,,En otra comuna
+46,Abroad,À l'étranger,,,En el extranjero
+47,,,,,Ninguna
+48,Roman Catholic Church,une église catholique romaine,,,Iglesia católica romana
+49,A Muslim community,Une communauté musulmane,,,Una comunidad musulmana
+50,Protestant (Reformed)Church,Église protestante (réformée),,,Iglesia Protestante (Reformada)
+51,"An Orthodox community (Russian, Greek, Serb)","Une communauté orthodoxe (russe, grecque, serbe)",,,"Una comunidad ortodoxa (rusa, griega, serbia)"
+52,Old Catholic Church (altkatholisch),Vieille église catholique (altkatholisch),,,Antigua iglesia católica (altkatholisch)
+53,Buddhist,bouddhiste,,,Budista
+54,A Jewish community,Une communauté juive,,,Una comunidad judía
+55,No Affliation,Aucune affiliation,,,Sin afiliación
+56,Other Church or religious community,Autre Église ou communauté religieuse,,,Otra iglesia o comunidad religiosa
+57,,,,,Ninguna
+58,German,allemand,,,alemán
+59,French,français,,,francés
+60,Italian,italien,,,italiano
+61,Rhaeto-Romansch,Rhéto-Romanche,,,Rhaeto-Romansch
+62,Other(s),Autres,,,Otros)
+63,,,,,Ninguna
+64,Swiss German,Suisse allemand,,,suizo alemán
+65,High German,Allemand haut,,,Alto alemán
+66,Swiss French patois,Patois français suisse,,,Patois suizo francés
+67,French,français,,,francés
+68,Ticino or Grisons Italian dialect,Tessin ou dialecte italien des Grisons,,,Ticino o Grisones dialecto italiano
+69,Italian,italien,,,italiano
+70,Rhaeto-Romansch,Rhéto-Romanche,,,Rhaeto-Romansch
+71,English,Anglais,,,Inglés
+72,Spanish,Espanol,espagnol,,Español
+73,Portuguese,Portugais,,,portugués
+74,Albanian,albanais,,,albanés
+75,Serbian/Croatian,Serbe / croate,,,Serbio / croata
+76,Other(s),Autres,,,Otros)
+77,,,,,Ninguna
+78,At the same address as now (residence A),À la même adresse que maintenant (résidence A),,,En la misma dirección que ahora (residencia A)
+79,In another commune,Dans une autre commune,,,En otra comuna
+80,Abroad,À l'étranger,,,En el extranjero
+81,,,,,Ninguna
+82,Head of Household,Chef de ménage,,,Jefe de hogar
+83,Relative of a head of household,Relatif à un chef de ménage,,,Pariente de un jefe de familia
+84,Other position in household,Autre poste dans le ménage,,,Otra posición en el hogar
+85,,,,,Ninguna
+86,Living Alone,Vivre seul,,,Viviendo solo
+87,Husband/Wife,Mari femme,,,Esposo esposa
+88,Common-law husband/wife,Époux / épouse de fait,,,Marido / esposa de hecho
+89,Single Parent,Parent célibataire,,,Monoparental
+90,Other head of household,Autre chef de ménage,,,Otro jefe de familia
+91,,,,,Ninguna
+92,"Son, daughter, stepson, stepdaughter, son-in-law, daughter-in-law","Fils, fille, beau-fils, belle-fille, gendre, belle-fille",,,"Hijo, hija, hijastro, hijastra, yerno, nuera"
+93,"Father, mother, stepfather, stepmother, father-in-law, mother-in-law","Père, mère, beau-père, belle-mère, beau-père, belle-mère",,,"Padre, madre, padrastro, madrastra, suegro, madre-en-ley"
+94,"Brother, Sister",Frère soeur,,,Hermano hermana
+95,Other relative of a head of household,Autre parent d'un chef de ménage,,,Otro pariente de un jefe de familia
+96,,,,,Ninguna
+97,"Flat-mate/commune member, non-related co-dweller","Colocataire / membre de la commune, co-habitant non apparenté",,,"Compañero de compañero de piso / comuna, cohabitante no relacionado"
+98,"Domestic employee, au pair","Employé domestique, au pair",,,"Empleado doméstico, au pair"
+99,"Lodger, subtenant","Locataire, sous-locataire",,,"Lodger, subtenant"
+100,"Other member of household (eg foster child, boarder)","Autre membre du ménage (p. Ex. Enfant adoptif, pensionnaire)",,,"Otro miembro del hogar (por ejemplo, niño de crianza, frontera)"
+101,,,,,Ninguna
+102,None,Aucun,,,
+103,up to 7 years of compulsory education,jusqu'à 7 ans d'enseignement obligatoire,,,hasta 7 años de educación obligatoria
+104,"Compulsory education(primary, junior secondary..etc)","Enseignement obligatoire (primaire, secondaire, secondaire, etc.)",,,"Educación obligatoria (primaria, secundaria secundaria, etc.)"
+105,"Certified college(up to 2 years), administrative/transport college, social work, intro. Course for nursing professions(1-2 years)","Collège certifié (jusqu'à 2 ans), collège administratif / de transport, travail social, intro. Cours pour les professions infirmières (1-2 ans)",College doesn't mean college - in French college is middle school - college is universite or Ecole privee ou Institut de l'enseignement superieur,,"Colegio certificado (hasta 2 años), colegio administrativo / de transporte, trabajo social, introducción. Curso para profesiones de enfermería (1-2 años)"
+106,Apprenticeship or full-time vocational college (eg commercial college),Un collège d'apprentissage ou un établissement de formation professionnelle à plein temps (par exemple un collège commercial),,,"Aprendizaje o universidad vocacional a tiempo completo (por ejemplo, escuela comercial)"
+107,"High-school certificate college, vocational high-school diploma","Collège de certificat d'études secondaires, diplôme d'études secondaires professionnelles",,,"Certificado de escuela secundaria, diploma de escuela secundaria profesional"
+108,"Teacher-training college(eg nursey, primary school), music, gymnastics and sports","École de formation des enseignants (par exemple, nursey creche,école maternelle, école primaire), musique, gymnastique et sport",,,"Escuela de formación docente (p. Ej., Nursey, escuela primaria), música, gimnasia y deportes"
+109,Advanced technical & professional training,Formation technique et professionnelle avancée,,,Entrenamiento técnico y profesional avanzado
+110,Higher college of technology with full-time education lasting a minimum of 3 years,Collège supérieur de technologie avec un enseignement à temps plein d'une durée minimale de 3 ans,,,Escuela superior de tecnología con educación a tiempo completo que dura un mínimo de 3 años
+111,Specialized university (including post-graduate degree),Université spécialisée (y compris diplôme d'études supérieures),,,Universidad especializada (incluyendo postgrado)
+112,"University, institute of technology (including post-graduate degree)","Université, institut de technologie (y compris diplôme d'études supérieures)",,,"Universidad, instituto de tecnología (incluido postgrado)"
+113,,,,,Ninguna
+114,In(full-time)employment,En emploi (à plein temps),,,En empleo (a tiempo completo)
+115,In (part-time)employment (at least one hour a week),Dans un emploi (à temps partiel) (au moins une heure par semaine,,,En empleo (a tiempo parcial) (al menos una hora a la semana)
+116,Several(part-time)jobs,Plusieurs emplois (à temps partiel),,,Varios trabajos (a tiempo parcial)
+117,Unemployed,Sans emploi,,,Desempleados
+118,Not in employment but seeking a job,Pas en d'emploi mais en recherche d'emploi,ou sans emploi,,No en el empleo pero buscando un trabajo
+119,Not in employment but future job guaranteed,Pas  en d'emploi mais futur emploi garanti,ou sans emploi,,No en el empleo pero trabajo futuro garantizado
+120,Not employed and not looking for a job,Sans emploi et ne cherche pas d'emploi,,,No empleado y no buscando trabajo
+121,"Undergoing Training (school, studies, apprenticeship)","Formation en cours (école, études, apprentissage)",,,"En curso de formación (escuela, estudios, aprendizaje)"
+122,"Retired, pension beneficiary (old-age, disability, etc.)","Retraité, bénéficiaire de la pension (vieillesse, invalidité, etc.)",d'une pension retraite,,"Jubilado, beneficiario de pensión (vejez, discapacidad, etc.)"
+123,,,,,Ninguna
+124,Work in own household,Travailler dans son propre ménage,auto-entrepreneur (France) Independant (Suisse),,Trabajar en casa propia
+125,Voluntary work,Travail volontaire,bénévolat,,Trabajo voluntario
+126,No such activity,Aucune activité de ce genre,,,No hay tal actividad
+127,,,,,Ninguna
+128,"Self-employed without employees (own business, free-lance)","Indépendant sans salariés (propre entreprise, free-lance)",,,"Trabajador por cuenta propia sin empleados (negocio propio, free-lance)"
+129,"Self-employed with employees (own business, free-lance)","Travailleur indépendant avec des employés (propre entreprise, free-lance)",,,"Trabajador por cuenta propia con empleados (negocio propio, free-lance)"
+130,Relative employed in family business,Relatif proche employé dans l'entreprise familiale,,,Pariente empleado en empresa familiar
+131,,,,,Ninguna
+132,Apprentice (indentured or not),Apprenti (sous contrat ou non),,,Aprendiz (contratado o no)
+133,"Employee in own corporation (eg stock corporation, plc)","Employé dans sa propre société (p. Ex., Société par actions, plc)",,,"Empleado en una sociedad anónima (p. Ej., Sociedad anónima, sociedad anónima)"
+134,"Manager, Executive Employee, Senior Civil Servant","Gestionnaire, cadre supérieur, haut fonctionnaire",,,"Gerente, Empleado Ejecutivo, Servidor Civil Senior"
+135,"Middle or junior level (eg office manager, section head, branch manager, group manager, workshop foreman, foreman)","Niveau intermédiaire ou junior (par exemple, chef de bureau, chef de section, directeur de succursale, chef de groupe, contremaître d'atelier, contremaître)",,,"Nivel medio o junior (por ejemplo, gerente de oficina, jefe de sección, gerente de sucursal, gerente de grupo, capataz de taller, capataz)"
+136,"White-collar worker, blue-collar worker, trainee","Ouvrier, ouvrier, stagiaire",,,"Trabajador de cuello blanco, trabajador de cuello azul, aprendiz"
+137,Other position,Autre position poste,,,Otra posición
+138,,,,,Ninguna
+139,Residence A (as given on page 1),Résidence A (comme indiqué à la page 1),,,Residencia A (como figura en la página 1)
+140,Residence B (as given on page 1),Résidence B (comme indiqué à la page 1),,,Residencia B (como figura en la página 1)
+141,,,,,Ninguna
+142,I work/live in the building I go work/go to school in,Je travaille / j'habite dans le bâtiment je vais travailler / aller à l'école,,,Trabajo / vivo en el edificio voy a trabajar / voy a la escuela en
+143,I commute to go to work/school,Je fais la navette pour aller au travail / à l'école,je prends les transports pour…,,Yo viajo para ir al trabajo / escuela
+144,,,,,Ninguna
+145,Once,Une fois que,,,Una vez
+146,Twice,Deux fois,,,Dos veces
+147,More than Twice,Plus que deux fois,plus de deux fois,,Mas de dos veces
+148,,,,,Ninguna
+149,"None, I walk all the way","Aucun, je marche tout le chemin /j'y vais à pieds",,,"Ninguno, camino todo el camino"
+150,"Bicycle, electric bike","à Vélo, vélo électrique",,,"Bicicleta, bicicleta eléctrica"
+151,Moped,à Vélomoteur,,,ciclomotor
+152,"Motorcycle, motor scooter","en Moto, en scooter",,,"Motocicleta, motocicleta"
+153,Car(driver),Voiture(Chauffeur),,,Conductor)
+154,Car(passenger),Voiture(Passager),,,Coche (pasajero)
+155,Company bus,Bus d'entreprise,,,Autobús de la compañía
+156,"Train (SFR, private railway)","Train (SFR, chemin de fer privé)",,,"Tren (SFR, tren privado)"
+157,"Tram, metro line","Tramway, ligne de métro",,,"Tranvía, línea de metro"
+158,"Self-propelled scooter, skateboard, roller skates etc.","patinette autopropulsée, planche à roulettes, patins à roulettes etc.",,,"Scooter autopropulsado, patineta, patines de ruedas, etc."
+159,"Postbus, coach, trolley bus, school bus","Car postal, autocar, trolleybus, bus scolaire",,,"Postbus, entrenador, trolebús, autobús escolar"
+160,"Other (eg boat, cable railway)","Autre (par exemple, bateau, téléphérique)",,,"Otro (por ejemplo, barco, teleférico)"
+161,,,,,Ninguna
+162,Permanently installed,Installé de façon permanente,,,Permanentemente instalado
+163,Mobile (Natel),Mobile (Natel),,,Móvil
+164,No telephone,Pas de téléphone,,,Sin teléfono
+165,,,,,Ninguna
+166,By Mail,Par mail,,,Por correo
+167,By phone,Par téléphone,,,Por teléfono
+168,,,,,Ninguna
+169,Aargau,Aargau,,,argovia
+170,Appenzell I.R.,Appenzell I.R.,,,Appenzell I.R.
+171,Appenzell A.R.,Appenzell A.R.,,,Appenzell A.R.
+172,Basel-City,Basel-City,,,Basilea-Ciudad
+173,Basel-Country,Basel-Country,,,Basilea-País
+174,Bern,Bern,,,Berna
+175,Fribourg,Fribourg,,,Friburgo
+176,Geneva,Geneva,,,Ginebra
+177,Glarus,Glarus,,,Glarus
+178,Grisons,Grisons,,,Cantón de los Grisones
+179,Jura,Jura,,,Jura
+180,Lucerne,Lucerne,,,Alfalfa
+181,Neuchatel,Neuchatel,,,Neuchâtel
+182,Nidwalden,Nidwalden,,,nidwalden
+183,Obwalden,Obwalden,,,obwalden
+184,Schaffhausen,Schaffhausen,,,Schaffhausen
+185,Schwyz,Schwyz,,,Schwyz
+186,Solothurn,Solothurn,,,Solothurn
+187,St. Gallan,St. Gallan,,,St. Gallen
+188,Thurgau,Thurgau,,,Thurgau
+189,Ticino,Ticino,,,Ticino
+190,Uri,Uri,,,uri
+191,Valais,Valais,,,Valais
+192,Vaud,Vaud,,,Vaud
+193,Zug,Zug,,,tren
+194,Zurich,Zurich,,,Zurich
+195,,,,,Ninguna
+196,Afghanistan,Afghanistan,,,Afganistán
+197,Albania,Albanie,,,Albania
+198,Algeria,Algérie,,,Argelia
+199,American Samoa,Samoa américaines,,,Samoa Americana
+200,Andorra,Andorre,,,Andorra
+201,Angola,Angola,,,Angola
+202,Anguilla,Anguilla,,,Anguila
+203,Antarctica,Antarctique,,,Antártida
+204,Antigua and Barbuda,Antigua-et-Barbuda,,,Antigua y Barbuda
+205,Argentina,Argentine,,,Argentina
+206,Armenia,Arménie,,,Armenia
+207,Aruba,Aruba,,,Aruba
+208,Australia,Australie,,,Australia
+209,Austria,L'Autriche,,,Austria
+210,Azerbaijan,Azerbaïdjan,,,Azerbaiyán
+211,Bahamas,Bahamas,,,Bahamas
+212,Bahrain,Bahreïn,,,Bahrein
+213,Bangladesh,Bangladesh,,,Bangladesh
+214,Barbados,Barbade,,,Barbados
+215,Belarus,Bélarus,,,Belarús
+216,Belgium,Belgique,,,Bélgica
+217,Belize,Belize,,,Belice
+218,Benin,Bénin,,,Benín
+219,Bermuda,Bermudes,,,islas Bermudas
+220,Bhutan,Bhoutan,,,Bhután
+221,"Bolivia, Plurinational State of","Bolivie, État plurinational de",,,"Bolivia, Estado Plurinacional de"
+222,"Bonaire, Sint Eustatius and Saba","Bonaire, Saint-Eustache et Saba",,,"Bonaire, San Eustaquio y Saba"
+223,Bosnia and Herzegovina,Bosnie Herzégovine,,,Bosnia y Herzegovina
+224,Botswana,Botswana,,,Botswana
+225,Brazil,Brésil,,,Brasil
+226,British Indian Ocean Territory,Territoire britannique de l'océan Indien,,,Territorio Británico del Océano Índico
+227,Brunei Darussalam,Brunei Darussalam,,,Brunei Darussalam
+228,Bulgaria,Bulgarie,,,Bulgaria
+229,Burkina Faso,Burkina Faso,,,Burkina Faso
+230,Burundi,Burundi,,,Burundi
+231,Cambodia,Cambodge,,,Camboya
+232,Cameroon,Cameroun,,,Camerún
+233,Canada,Canada,,,Canadá
+234,Cape Verde,Cap-Vert,,,Cabo Verde
+235,Cayman Islands,Îles Caïmans,,,Islas Caimán
+236,Central African Republic,République centrafricaine,,,República Centroafricana
+237,Chad,Tchad,,,Chad
+238,Chile,Chili,,,Chile
+239,China,Chine,,,China
+240,Christmas Island,Île Christmas,,,Isla de Navidad
+241,Cocos (Keeling) Islands,Îles Cocos (Keeling),,,Islas Cocos (Keeling)
+242,Colombia,Colombie,,,Colombia
+243,Comoros,Comores,,,Comoras
+244,Congo,"Congo, La République Démocratique du",,,Congo
+245,"Congo, the Democratic Republic of the",République du Congo,,,"Congo, la República Democrática del"
+246,Cook Islands,Îles Cook,,,Islas Cook
+247,Costa Rica,Costa Rica,,,Costa Rica
+248,Cote d'Ivoire,Côte D'ivoire,,,Costa de Marfil
+249,Croatia,Croatie,,,Croacia
+250,Cuba,Cuba,,,Cuba
+251,Cyprus,Chypre,,,Chipre
+252,Czech Republic,République Tchèque,,,Republica checa
+253,Denmark,Danemark,,,Dinamarca
+254,Djibouti,Djibouti,,,Djibouti
+255,Dominica,Dominique,,,Dominica
+256,Dominican Republic,"Dominicaine, République",,,República Dominicana
+257,Ecuador,Équateur,,,Ecuador
+258,Egypt,Égypte,,,Egipto
+259,El Salvador,El Salvador,,,El Salvador
+260,Equatorial Guinea,Guinée Équatoriale,,,Guinea Ecuatorial
+261,Eritrea,Érythrée,,,Eritrea
+262,Estonia,Estonie,,,Estonia
+263,Ethiopia,Éthiopie,,,Etiopía
+264,Falkland Islands (Malvinas),"Falkland, Îles (Malvinas)",,,Islas Malvinas (Falkland Islands)
+265,Faroe Islands,Îles Féroé,,,Islas Faroe
+266,Fiji,Fidji,,,Fiyi
+267,Finland,Finlande,,,Finlandia
+268,France,France,,,Francia
+269,French Guiana,Guyane Française,,,Guayana Francesa
+270,French Polynesia,Polynésie Française,,,Polinesia francés
+271,French Southern Territories,Terres Australes Françaises,,,Territorios Franceses del Sur
+272,Gabon,Gabon,,,Gabón
+273,Gambia,Gambie,,,Gambia
+274,Georgia,Géorgie,,,Georgia
+275,Germany,Allemagne,,,Alemania
+276,Ghana,Ghana,,,Ghana
+277,Gibraltar,Gibraltar,,,Gibraltar
+278,Greece,Grèce,,,Grecia
+279,Greenland,Groenland,,,Tierra Verde
+280,Grenada,Grenade,,,Granada
+281,Guadeloupe,Guadeloupe,,,Guadalupe
+282,Guam,Guam,,,Guam
+283,Guatemala,Guatemala,,,Guatemala
+284,Guinea,Guinéee,,,Guinea
+285,Guinea-Bissau,Guinée-Bissau,,,Guinea-Bissau
+286,Guyana,Guyana,,,Guayana
+287,Haiti,Haïti,,,Haití
+288,Holy See (Vatican City State),Saint-Siège (État de la Cité du Vatican),,,Santa Sede (Estado de la Ciudad del Vaticano)
+289,Honduras,Honduras,,,Honduras
+290,Hong Kong,Hong-Kong,,,Hong Kong
+291,Hungary,Hongrie,,,Hungría
+292,Iceland,Islande,,,Islandia
+293,India,Inde,,,India
+294,Indonesia,Indonésie,,,Indonesia
+295,"Iran, Islamic Republic of",République Islamique d' Iran,,,Irán (República Islámica de
+296,Iraq,Iraq,,,Irak
+297,Ireland,Irlande,,,Irlanda
+298,Israel,Israël,,,Israel
+299,Italy,Italie,,,Italia
+300,Jamaica,Jamaïque,,,Jamaica
+301,Japan,Japon,,,Japón
+302,Jordan,Jordanie,,,Jordán
+303,Kazakhstan,Kazakstan,,,Kazakhstan
+304,Kenya,Kenya,,,Kenia
+305,Kiribati,Kiribati,,,Kiribati
+306,"Korea, Democratic People's Republic of","Corée, République Populaire Démocratique de",,,"República de Corea, Popular Democrática de"
+307,"Korea, Republic of","Corée, République de",,,"Corea, república de"
+308,Kuwait,Koweït,,,Kuwait
+309,Kyrgyzstan,Kirghizistan,,,Kirguistán
+310,Lao People's Democratic Republic,"Lao, République Démocratique Populaire",,,República Democrática Popular Lao
+311,Latvia,Lettonie,,,Letonia
+312,Lebanon,Liban,,,Líbano
+313,Lesotho,Lesotho,,,Lesoto
+314,Liberia,Libéria,,,Liberia
+315,Libya,Libye,,,Libia
+316,Liechtenstein,Liechtenstein,,,Liechtenstein
+317,Lithuania,Lituanie,,,Lituania
+318,Luxembourg,Luxembourg,,,Luxemburgo
+319,Macao,Macao,,,Macao
+320,"Macedonia, the Former Yugoslav Republic of","Macédoine, l'ex-République Yougoslave de",,,"Macedonia, la ex República Yugoslava de"
+321,Madagascar,Madagascar,,,Madagascar
+322,Malawi,Malawi,,,Malawi
+323,Malaysia,Malaisie,,,Malasia
+324,Maldives,Maldives,,,Maldivas
+325,Mali,Mali,,,mali
+326,Malta,Malte,,,Malta
+327,Marshall Islands,Îles Marshall,,,Islas Marshall
+328,Martinique,Martinique,,,Martinica
+329,Mauritania,Mauritanie,,,Mauritania
+330,Mauritius,Île Maurice,,,Mauricio
+331,Mayotte,Mayotte,,,Mayotte
+332,Mexico,Mexique,,,Mexico
+333,"Micronesia, Federated States of",États Fédérés de Micronésie,,,"Micronesia, Estados Federados de"
+334,"Moldova, Republic of","Moldova, République de",,,"Moldavia, República de"
+335,Monaco,Monaco,,,Mónaco
+336,Mongolia,Mongolie,,,Mongolia
+337,Montenegro,Monténégro,,,Montenegro
+338,Montserrat,Montserrat,,,Montserrat
+339,Morocco,Maroc,,,Marruecos
+340,Mozambique,Mozambique,,,Mozambique
+341,Myanmar,"Myanmar, Birmanie",,,Myanmar
+342,Namibia,Namibie,,,Namibia
+343,Nauru,Nauru,,,Nauru
+344,Nepal,Népal,,,Nepal
+345,Netherlands,Pays-Bas,,,Países Bajos
+346,New Caledonia,Nouvelle-Calédonie,,,Nueva Caledonia
+347,New Zealand,Nouvelle-Zélande,,,Nueva Zelanda
+348,Nicaragua,Nicaragua,,,Nicaragua
+349,Niger,Niger,,,Níger
+350,Nigeria,Nigéria,,,Nigeria
+351,Niue,Nioué,,,Niue
+352,Northern Mariana Islands,Îles Mariannes du Nord,,,Islas Marianas del Norte
+353,Norway,Norvège,,,Noruega
+354,Oman,Oman,,,Omán
+355,Pakistan,Pakistan,,,Pakistán
+356,Palau,Palaos,,,Palau
+357,"Palestine, State of",Autorité Nationale Palestinienne,,,"Palestina, Estado de"
+358,Panama,Panama,,,Panamá
+359,Papua New Guinea,Papouasie-Nouvelle-Guinée,,,Papúa Nueva Guinea
+360,Paraguay,Paraguay,,,Paraguay
+361,Peru,Pérou,,,Peru
+362,Philippines,Philippines,,,Filipinas
+363,Pitcairn,Pitcairn,,,Pitcairn
+364,Poland,Pologne,,,Polonia
+365,Portugal,Portugal,,,Portugal
+366,Puerto Rico,Porto Rico,,,Puerto Rico
+367,Qatar,Qatar,,,Katar
+368,Reunion Island,Ile de la Réunion,,,Isla reunión
+369,Romania,Roumanie,,,Rumania
+370,Russian Federation,"Russie, Fédération de",,,Federación Rusa
+371,Rwanda,Rwanda,,,Ruanda
+372,Saint Kitts and Nevis,Saint-Kitts-et-Nevis,,,San Cristóbal y Nieves
+373,Saint Lucia,Sainte-Lucie,,,Santa Lucía
+374,Saint Vincent and the Grenadines,Saint-Vincent-et-les Grenadines,,,San Vicente y las Granadinas
+375,Samoa,Samoa,,,Samoa
+376,San Marino,Saint-Marin,,,San Marino
+377,Sao Tome and Principe,Sao Tomé-et-Principe,,,Santo Tomé y Príncipe
+378,Saudi Arabia,Arabie Saoudite,,,Arabia Saudita
+379,Senegal,Sénégal,,,Senegal
+380,Serbia,Serbie,,,Serbia
+381,Seychelles,Seychelles,,,Seychelles
+382,Sierra Leone,Sierra Leone,,,Sierra Leone
+383,Singapore,Singapour,,,Singapur
+384,Slovakia,Slovaquie,,,Eslovaquia
+385,Slovenia,Slovénie,,,Eslovenia
+386,Solomon Islands,"Salomon, Îles",,,Islas Salomón
+387,Somalia,Somalie,,,Somalia
+388,South Africa,Afrique du Sud,,,Sudáfrica
+389,South Sudan,Soudan du Sud,,,Sudán del Sur
+390,Spain,Espagne,,,España
+391,Sri Lanka,Sri Lanka,,,Sri Lanka
+392,Sudan,Soudan,,,Sudán
+393,Suriname,Suriname,,,Suriname
+394,Swaziland,Swaziland,,,Swazilandia
+395,Sweden,Suède,,,Suecia
+396,Switzerland,Suisse,,,Suiza
+397,Syrian Arab Republic,"Syrienne, République Arabe",,,República Árabe Siria
+398,"Taiwan, Province of China","Taïwan, Province de Chine",,,"Taiwan, provincia de China"
+399,Tajikistan,Tadjikistan,,,Tayikistán
+400,"Tanzania, United Republic of","Tanzanie, République-Unie de",,,"Tanzania, República Unida de"
+401,Thailand,Thaïlande,,,Tailandia
+402,Timor-Leste,Timor-Leste (Timor Oriental),,,Timor del Este
+403,Togo,Togo,,,Ir
+404,Tokelau,Tokelau,,,Tokelau
+405,Tonga,Tonga,,,Tonga
+406,Trinidad and Tobago,Trinité-et-Tobago,,,Trinidad y Tobago
+407,Tunisia,Tunisie,,,Túnez
+408,Turkey,Turquie,,,Turquía
+409,Turkmenistan,Turkménistan,,,Turkmenistán
+410,Turks and Caicos Islands,"Turks et Caïques, Îles",,,Islas Turcas y Caicos
+411,Tuvalu,Tuvalu,,,Tuvalu
+412,Uganda,Ouganda,,,Uganda
+413,Ukraine,Ukraine,,,Ucrania
+414,United Arab Emirates,Émirats Arabes Unis,,,Emiratos Árabes Unidos
+415,United Kingdom,Royaume-Uni,,,Reino Unido
+416,United States,États-Unis,,,Estados Unidos
+417,Uruguay,Uruguay,,,Uruguay
+418,Uzbekistan,Ouzbékistan,,,Uzbekistán
+419,Vanuatu,Vanuatu,,,Vanuatu
+420,"Venezuela, Bolivarian Republic of",Venezuela,,,"Venezuela, República Bolivariana de"
+421,Viet Nam,Viêt Nam,,,Viet Nam
+422,"Virgin Islands, British",Îles Vierges Britanniques,,,Islas Vírgenes Británicas
+423,"Virgin Islands, U.S.",Îles Vierges des États-Unis,,,"Islas Vírgenes, EE. UU."
+424,Wallis and Futuna,Wallis et Futuna,,,Wallis y Futuna
+425,Western Sahara,Sahara Occidental,,,Sahara Occidental
+426,Yemen,Yémen,,,Yemen
+427,Zambia,Zambie,,,Zambia
+428,Zimbabwe,Zimbabwe,,,Zimbabue
